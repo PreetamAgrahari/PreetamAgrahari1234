@@ -14,7 +14,6 @@ I'm a Computer Science student specializing in **Artificial Intelligence**, pass
 
 * 🎓 B.Tech CSE (Artificial Intelligence)
 * 🤖 Exploring **Agentic AI**, **LangChain**, and **Generative AI**
-* 🌐 Building modern web applications using **React.js**
 * 🎮 Interested in  **C**, **Python**, **Tensorflow**, **NLP**
 * 📚 Continuously learning new technologies.
 * 🚀 Goal: Become an **Aritificial Intelligence  and Machine learning Developer**
