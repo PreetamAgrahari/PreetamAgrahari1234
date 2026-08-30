@@ -166,21 +166,21 @@ I'm a Computer Science student specializing in **Artificial Intelligence**, pass
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=utkarsharma12&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=PreetamAgrahari&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsharma12&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PreetamAgrahari&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utkarsharma12&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utkarsharma12&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PreetamAgrahari&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PreetamAgrahari&theme=tokyonight" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarsharma12&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utkarsharma12&theme=tokyonight&utcOffset=5.5" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PreetamAgrahari&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PreetamAgrahari&theme=tokyonight&utcOffset=5.5" width="49%"/>
 </p>
 
 
@@ -220,16 +220,15 @@ Game Development
 
 ## 🌐 Connect With Me
 
-📧 Email: **[utkarshsharma222555@gmail.com](mailto:utkarshsharma222555@gmail.com)**
+📧 Email: **[agraharipretam6@gmail.com.com](mailto:agraharipreetam6@gmail.com)**
 
 💼 LinkedIn:
-https://www.linkedin.com/in/utkarsh-sharma-500b22278
+https://www.linkedin.com/in/preetam-agrahari-26a408298
+
 
 🐙 GitHub:
-https://github.com/utkarsharma12
+https://https://github.com/PreetamAgrahari/Preetam-Agrahari-
 
-🌍 Portfolio:
-https://portfoliout.netlify.app/
 
 ---
 
@@ -239,9 +238,6 @@ https://portfoliout.netlify.app/
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarsharma12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
 
 <p align="center">
   ⭐ If you like my work, consider following me and checking out my repositories!
