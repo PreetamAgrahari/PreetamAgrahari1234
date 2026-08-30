@@ -227,7 +227,7 @@ https://www.linkedin.com/in/preetam-agrahari-26a408298
 
 
 🐙 GitHub:
-https://https://github.com/PreetamAgrahari/Preetam-Agrahari-
+https://https://github.com/PreetamAgrahari
 
 
 ---
