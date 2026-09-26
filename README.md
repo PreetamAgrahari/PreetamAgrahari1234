@@ -38,9 +38,9 @@ I'm a Computer Science student specializing in **Artificial Intelligence**, pass
   <img src="https://skillicons.dev/icons?i=python,java,js,c,cs,mysql" />
 </p>
 
-**Advanced:** Python, Java, JavaScript, SQL, HTML, CSS
+**Advanced:** Python, C, SQL, HTML, CSS
 **Intermediate:** React.js
-**Currently Learning:** C#, .NET
+**Currently Learning:** C 
 
 ---
 
@@ -188,7 +188,6 @@ I'm a Computer Science student specializing in **Artificial Intelligence**, pass
 
 ## 🎯 2026 Goals
 
-* 🚀 Master React & Full-Stack Development
 * 🤖 Build Production-Ready AI Applications
 * 🧠 Develop Advanced Agentic AI Systems
 * 🎮 Create a Complete Game Prototype with Unity
@@ -208,12 +207,6 @@ Artificial Intelligence
         ├── Agentic AI
         └── Multi-Agent Systems
 
-Game Development
-        │
-        ├── C#
-        ├── .NET
-        ├── Unity
-        └── AI-Powered Games
 ```
 
 ---
